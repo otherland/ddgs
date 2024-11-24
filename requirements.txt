@@ -4,3 +4,4 @@ newspaper3k
 duckduckgo_search
 aiohttp
 pydantic
+lxml[html_clean]
